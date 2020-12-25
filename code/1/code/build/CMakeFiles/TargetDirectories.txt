@@ -1,0 +1,3 @@
+/home/feng/document/learn-opencv/opencv_code/1/code/build/CMakeFiles/edit_cache.dir
+/home/feng/document/learn-opencv/opencv_code/1/code/build/CMakeFiles/main.dir
+/home/feng/document/learn-opencv/opencv_code/1/code/build/CMakeFiles/rebuild_cache.dir
